@@ -1,0 +1,19 @@
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/condabin/conda
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/bin/conda
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/bin/conda-env
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/bin/activate
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/bin/deactivate
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/etc/profile.d/conda.sh
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/etc/fish/conf.d/conda.fish
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/shell/condabin/Conda.psm1
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/shell/condabin/conda-hook.ps1
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /opt/apps/testapps/common/software/staging/Anaconda3/2024.02-1/etc/profile.d/conda.csh
+no change     /users/bi1pp/.bashrc
+No action taken.
+12:25:49 [INFO] Chunk 2 is done
+12:25:49 [INFO] Chunk 1 is done
+12:28:24 [INFO] Chunk 0 is done
+12:28:24 [INFO] Merging 4 BAM chunks into final output
+12:38:30 [INFO] Done!
+12:38:30 [INFO] Visited 28547217 alignments, found 28089796 with barcodes and kept 26790696
